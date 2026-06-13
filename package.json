@@ -1,6 +1,6 @@
 {
   "name": "mcp-leclerc-drive",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "mcpName": "io.github.skunkobi/leclerc-drive",
   "description": "MCP server for E.Leclerc Drive — search products, manage cart, and order groceries from Claude",
   "type": "module",
